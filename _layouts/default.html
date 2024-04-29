@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% seo %}
+  <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  <!--[if lt IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <![endif]-->
+  {% include head-custom.html %}
+  <style> 
+    .logo-container {
+      display: inline-block;
+      vertical-align: middle;
+    }
+
+    .logo-container img {
+      vertical-align: middle;
+    }
+
+    .site-title {
+      display: inline-block;
+      margin-left: 10px; /* Adjust the margin as needed */
+      vertical-align: middle;
+    }
+
+    .contact-info a {
+      display: block;
+      margin-bottom: 5px; /* Adjust the margin between links */
+    }
+  </style>
+</head>
+<body>
+<div class="wrapper">
+  <header>
+    <div class="logo-container">
+      {% if site.logo %}
+        <img src="{{site.logo | relative_url}}" alt="Logo">
+      {% endif %}
+    </div>
+    <h1 class="site-title"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+    <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+    <div class="contact-info">
+      <img src="assets/logos/placeholder.png" alt="Placeholder Logo" style="width: 15px;">
+      <span>Melbourne</span>
+      </a>  
+      <a href="mailto:S4078543@student.rmit.edu.au">
+        <img src="assets/logos/email.png" alt="Email Logo" style="width: 15px;">
+        <span>Email</span>
+      </a>       
+      <a href="https://www.linkedin.com/in/tharindu-harith-withana-97243b175/">
+        <img src="assets/logos/linkedin.png" alt="LinkedIn Logo" style="width: 15px;">
+        <span>LinkedIn</span>
+      </a>
+      <a href="https://github.com/thw96">
+        <img src="assets/logos/github.png" alt="LinkedIn Logo" style="width: 15px;">
+        <span>GitHub</span>
+      </a>
+    </div>
+  </header>
+  <section>
+    {{ content }}
+  </section>
+  <footer>
+  </footer>
+</div>
+<script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+</body>
+</html>
