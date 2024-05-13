@@ -94,18 +94,17 @@ I'm a professional with over 4 years of work experience in the data science fiel
   vehicle damage detection and damage severity estimation
 
   
-**Vehicle Damage Detection and Classification Using Computer Vision**
+**Sales Forecasting: Beverage Company in Sri Lanka**
 [Project Link](https://drive.google.com/u/0/uc?id=1MxFcqjjw3uuA3CVu0wHJ2ACCxp_52KMt&export=download)
 2023-2024
 
-- Led a team of Data Scientists for this project involving research, data extraction, model building, evalution, back-end development and working with   front-end team
-- Curated high-quality dataset through web scrapping and wrangling from auction sites, annotated the dataset matching with the insurance standards
-- Used state of the art computer vision, deep learning algorithms for vehicle classification, number plate recognition, vehicle part detection, 
-  vehicle damage detection and damage severity estimation
+- Use customer data in a JDE platform, extract data and anlyzed them.
+- Built ML models to forecast sales with the help of extracted data from internal and external sources.
+- Built PowerBI dashboards to report and visualize the outputs.
   
 
 **Identifying and Monitoring Human Rights Abuses Through NLP**
-[Project Link](https://www.omdena.com/projects/ai-human-rights)
+[Project Link](https://public.tableau.com/views/HemasDT/DashboardDark33?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 2021 May-July
 
 - Use social media data(Twitter and Reddit) scrapped to identify any Human Rights violence happening around the world and visualize on a Dashboard
