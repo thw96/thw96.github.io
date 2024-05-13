@@ -95,7 +95,7 @@ I'm a professional with over 4 years of work experience in the data science fiel
 
   
 **Sales Forecasting: Beverage Company in Sri Lanka**
-[Project Link](https://drive.google.com/u/0/uc?id=1MxFcqjjw3uuA3CVu0wHJ2ACCxp_52KMt&export=download)
+[Project Link](https://public.tableau.com/views/HemasDT/DashboardDark33?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 2023-2024
 
 - Use customer data in a JDE platform, extract data and anlyzed them.
@@ -104,7 +104,7 @@ I'm a professional with over 4 years of work experience in the data science fiel
   
 
 **Identifying and Monitoring Human Rights Abuses Through NLP**
-[Project Link](https://public.tableau.com/views/HemasDT/DashboardDark33?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[Project Link](https://www.omdena.com/projects/ai-human-rights)
 2021 May-July
 
 - Use social media data(Twitter and Reddit) scrapped to identify any Human Rights violence happening around the world and visualize on a Dashboard
