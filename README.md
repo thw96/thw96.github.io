@@ -68,7 +68,7 @@ I'm a professional with over 4 years of work experience in the data science fiel
   improved business outcomes
   
 **Remote Sensing: Carbon Tracking and Forest Monitoring**
-[Projects Link](https://www.planetarycarbonstandard.com/registry)
+[Projects Link](https://www.registry.planetarycarbonstandard.com/description?id=82)
 2023 Sep - 2024 Feb
 
 - Led a cross-functional team of data scientists and collaborated with the front-end team on an R&D project focused on leveraging remote sensing 
