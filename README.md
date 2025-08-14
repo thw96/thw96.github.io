@@ -17,7 +17,11 @@ I'm a professional with over 4 years of work experience in the data science fiel
 ---
 
 ## Professional Work Experience
-**Project Manager @ [Omdena](https://www.omdena.com/) (April 2024 - Present_)**
+
+**Dara Scientist - Internship @ [Integra Technology Solutions](https://www.omdena.com/) (July 2025 - Present)**
+- Leverage LLMs, Generative AI and Machine Learning to process documents, extract insights, and develop automation solutions.
+
+**Project Manager @ [Omdena](https://www.omdena.com/) (April 2024 - January 2025)**
 - Omdena top talent opportunity
 - Part time role managing a team of Engineers for the project "Identifying  Inaccuracies in GESI Conversations : Sri Lanka"
 
@@ -158,10 +162,10 @@ Supervisor: Prof. Debashis Nandi
 - Programming Languages: Python, Java, R, HTML/CSS
 - Databases: MySQL, PostgreSQL
 - Machine Learning & Data Science: Machine Learning, Natural Language Processing (NLP), Deep Learning Frameworks; TensorFlow, PyTorch, Image   
-  Processing(OpenCV)
+  Processing(OpenCV), LLM
 - Operating Systems: Windows, Linux, Mac
 - Data Visualization: Tableau, PowerBI
-- Cloud Computing: AWS Services EC2, S3, Lambda, RDS, ECR
+- Cloud Computing: AWS Services EC2, S3, Lambda, RDS, ECR, Sagemaker
 
 ---
 
