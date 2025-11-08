@@ -8,6 +8,8 @@ I'm a professional with over 4 years of work experience in the data science fiel
 
 ## Education
 **Master in AI | RMIT University (2024-2025)**
+- Main Modules :  Practical Data Science with Python, Big Data Processing, Social Media Analysis, AI, Programming Autonomous Robots, Cloud Computing, Computational ML, Deep Learning
+- Minor Thesis : “Using Large Language Models to Simulate Users to Analyse Music Recommendations”
                		
 **B.Tech., Computer Science & Engineering | National Institute of Techonlogy Durgapur (2015-2019)**
 - Graduated with a First Class.
@@ -18,8 +20,9 @@ I'm a professional with over 4 years of work experience in the data science fiel
 
 ## Professional Work Experience
 
-**Dara Scientist - Internship @ [Integra Technology Solutions](https://www.omdena.com/) (July 2025 - Present)**
-- Leverage LLMs, Generative AI and Machine Learning to process documents, extract insights, and develop automation solutions.
+**ML Engineer @ [Integra Technology Solutions](https://www.linkedin.com/company/integratechnologysolutions) (July 2025 - Present)**
+- Leverage and fine-tune LLMs and ML to automate document processing and insight extraction.
+- Build microservices for each AI feature to enhance user experience, integrating MongoDB (NoSQL) and AWS S3 for scalable data handling.
 
 **Project Manager @ [Omdena](https://www.omdena.com/) (April 2024 - January 2025)**
 - Omdena top talent opportunity
