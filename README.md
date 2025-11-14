@@ -9,7 +9,7 @@ I'm a professional with over 4 years of work experience in the data science fiel
 ## Education
 **Master in AI | RMIT University (2024-2025)**
 - Main Modules :  Practical Data Science with Python, Big Data Processing, Social Media Analysis, AI, Programming Autonomous Robots, Cloud Computing, Computational ML, Deep Learning
-- Minor Thesis : “Using Large Language Models to Simulate Users to Analyse Music Recommendations”
+- Minor Thesis : “Using Large Language Models to Simulate Users to Analyse Music Recommendations” : LLM–based user-simulation together with standard recommender-system pipelines, prompt-engineering workflows, fairness-aware post-processing, and music-listening datasets such as LFM-1b and Spotify open resources.
                		
 **B.Tech., Computer Science & Engineering | National Institute of Techonlogy Durgapur (2015-2019)**
 - Graduated with a First Class.
@@ -168,7 +168,7 @@ Supervisor: Prof. Debashis Nandi
   Processing(OpenCV), LLM
 - Operating Systems: Windows, Linux, Mac
 - Data Visualization: Tableau, PowerBI
-- Cloud Computing: AWS Services EC2, S3, Lambda, RDS, ECR, Sagemaker
+- Cloud Computing: AWS Services EC2, S3, Lambda, RDS, ECR, Sagemaker, Bedrock
 
 ---
 
